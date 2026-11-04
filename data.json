@@ -402,26 +402,12 @@
       "qualifies": "See source page.",
       "source_url": "https://www.claim.ca/",
       "needs_review": true
-    },
-    {
-      "id": "truffettes-de-france-mislabelling-class-action",
-      "name": "Truffettes de France Mislabelling Class Action",
-      "category": "Uncategorized",
-      "scope": "Canada-wide",
-      "status": "watch",
-      "deadline": null,
-      "deadline_note": "New listing spotted on canooq (February 28, 2027) - verify before publishing details.",
-      "claim_url": "https://www.canooq.ca/class-actions/truffettes-de-france-mislabelling-class-action",
-      "payout": "TBD",
-      "qualifies": "See source page.",
-      "source_url": "https://www.canooq.ca/class-actions/truffettes-de-france-mislabelling-class-action",
-      "needs_review": true
     }
   ],
-  "checked": "2026-11-03T23:06:56+00:00",
+  "checked": "2026-11-04T17:45:09+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 1 candidate entries"
   ],
-  "updated": "2026-11-03"
+  "updated": "2026-11-04"
 }
