@@ -2,8 +2,8 @@ name: Daily class action data refresh
 
 on:
   schedule:
-    # 09:00 UTC daily (~1-2am Vancouver)
-    - cron: "0 9 * * *"
+    # Every 6 hours (09:00, 15:00, 21:00, 03:00 UTC)
+    - cron: "0 */6 * * *"
   workflow_dispatch: {} # allow manual runs from the Actions tab
 
 permissions:
