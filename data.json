@@ -668,9 +668,23 @@
       "qualifies": "See source page.",
       "source_url": "https://cbaapps.org/ClassAction/CAMonthYear.aspx?date=10/01/26",
       "needs_review": true
+    },
+    {
+      "id": "cibc-and-renaissance-mutual-funds-non-discount-broker-settle",
+      "name": "CIBC and Renaissance Mutual Funds Non-discount Broker Settlement",
+      "category": "Uncategorized",
+      "scope": "Canada-wide",
+      "status": "watch",
+      "deadline": null,
+      "deadline_note": "New listing spotted on canooq (February 28, 2027) - verify before publishing details.",
+      "claim_url": "https://www.canooq.ca/class-actions/cibc-renaissance-mutual-funds-non-discount-settlement",
+      "payout": "TBD",
+      "qualifies": "See source page.",
+      "source_url": "https://www.canooq.ca/class-actions/cibc-renaissance-mutual-funds-non-discount-settlement",
+      "needs_review": true
     }
   ],
-  "checked": "2026-11-06T04:41:16+00:00",
+  "checked": "2026-11-06T13:36:36+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 1 candidate entries",
