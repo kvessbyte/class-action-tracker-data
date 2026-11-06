@@ -676,7 +676,7 @@
       "scope": "Canada-wide",
       "status": "watch",
       "deadline": null,
-      "deadline_note": "New listing spotted on canooq (February 28, 2027) - verify before publishing details.",
+      "deadline_note": "Spotted on canooq: February 28, 2027 (unverified)",
       "claim_url": "https://www.canooq.ca/class-actions/cibc-renaissance-mutual-funds-non-discount-settlement",
       "payout": "TBD",
       "qualifies": "See source page.",
@@ -684,7 +684,7 @@
       "needs_review": true
     }
   ],
-  "checked": "2026-11-06T13:36:36+00:00",
+  "checked": "2026-11-06T22:37:36+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 1 candidate entries",
