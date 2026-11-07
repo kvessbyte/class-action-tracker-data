@@ -684,12 +684,12 @@
       "needs_review": true
     }
   ],
-  "checked": "2026-11-06T22:37:36+00:00",
+  "checked": "2026-11-07T04:08:31+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
-    "canooq: parsed 1 candidate entries",
+    "canooq: fetch failed (503 Server Error: Service Unavailable for url: https://www.canooq.ca/class-actions)",
     "cba: parsed 2 filings for 2026-11",
     "cba: parsed 17 filings for 2026-10"
   ],
-  "updated": "2026-11-06"
+  "updated": "2026-11-07"
 }
