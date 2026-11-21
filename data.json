@@ -682,14 +682,28 @@
       "qualifies": "See source page.",
       "source_url": "https://www.canooq.ca/class-actions/cibc-renaissance-mutual-funds-non-discount-settlement",
       "needs_review": true
+    },
+    {
+      "id": "quebec-opioid-class-action-settlement",
+      "name": "Quebec Opioid Class Action Settlement",
+      "category": "Uncategorized",
+      "scope": "Canada-wide",
+      "status": "watch",
+      "deadline": null,
+      "deadline_note": "New listing spotted on canooq (February 28, 2027) - verify before publishing details.",
+      "claim_url": "https://www.canooq.ca/class-actions/quebec-opioid-class-action-settlement",
+      "payout": "TBD",
+      "qualifies": "See source page.",
+      "source_url": "https://www.canooq.ca/class-actions/quebec-opioid-class-action-settlement",
+      "needs_review": true
     }
   ],
-  "checked": "2026-11-20T23:34:25+00:00",
+  "checked": "2026-11-21T05:10:48+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 1 candidate entries",
     "cba: parsed 2 filings for 2026-11",
     "cba: parsed 17 filings for 2026-10"
   ],
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
