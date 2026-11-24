@@ -698,12 +698,12 @@
       "needs_review": true
     }
   ],
-  "checked": "2026-11-23T17:06:01+00:00",
+  "checked": "2026-11-24T03:42:56+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 1 candidate entries",
     "cba: parsed 2 filings for 2026-11",
     "cba: parsed 17 filings for 2026-10"
   ],
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
