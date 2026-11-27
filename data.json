@@ -906,9 +906,23 @@
       "qualifies": "See source page.",
       "source_url": "https://cbaapps.org/ClassAction/CAMonthYear.aspx?date=11/01/26",
       "needs_review": true
+    },
+    {
+      "id": "cae-shareholders",
+      "name": "CAE Shareholders",
+      "category": "Uncategorized",
+      "scope": "Canada-wide",
+      "status": "watch",
+      "deadline": null,
+      "deadline_note": "New listing spotted on canooq - verify before publishing details.",
+      "claim_url": "",
+      "payout": "TBD",
+      "qualifies": "See source page.",
+      "source_url": "",
+      "needs_review": true
     }
   ],
-  "checked": "2026-11-27T01:24:06+00:00",
+  "checked": "2026-11-27T15:57:45+00:00",
   "notes": [
     "claim.ca: parsed 1 candidate entries",
     "canooq: parsed 3 candidate entries",
